@@ -12,3 +12,4 @@ An autonomous radar system built using an Arduino Uno to detect obstacles and ma
 The hardware is integrated with a custom graphical interface built in **Processing**. The GUI visually maps target angles and distances, triggering a visual red alert and an audio buzzer when an object is detected within a 40cm range.
 
 **Developer:** Ahmed Alhusayni
+![Smart Radar Poster](Poster.jpg.jpeg)
